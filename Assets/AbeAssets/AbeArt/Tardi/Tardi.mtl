@@ -1,0 +1,5 @@
+
+newmtl tardi_mtl
+map_Kd Tardi_BaseColor.jpg
+norm Tardi_Normal.jpg
+disp Tardi_Height.jpg
